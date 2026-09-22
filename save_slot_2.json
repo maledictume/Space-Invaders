@@ -1,0 +1,448 @@
+{
+    "level": 1,
+    "score": 120,
+    "player": {
+        "x": 1224,
+        "y": 980,
+        "lives": 1,
+        "invincible": 0,
+        "shoot_cooldown": 0
+    },
+    "enemies": [
+        {
+            "x": 876,
+            "y": 140,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 966,
+            "y": 140,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1056,
+            "y": 140,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1146,
+            "y": 140,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1236,
+            "y": 140,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1326,
+            "y": 140,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1416,
+            "y": 140,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1506,
+            "y": 140,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1596,
+            "y": 140,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1686,
+            "y": 140,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1776,
+            "y": 140,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 876,
+            "y": 290,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 966,
+            "y": 290,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1056,
+            "y": 290,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1146,
+            "y": 290,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1236,
+            "y": 290,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1326,
+            "y": 290,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1416,
+            "y": 290,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1506,
+            "y": 290,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1596,
+            "y": 290,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1686,
+            "y": 290,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 876,
+            "y": 440,
+            "type": 2,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 966,
+            "y": 440,
+            "type": 2,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1056,
+            "y": 440,
+            "type": 2,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1146,
+            "y": 440,
+            "type": 2,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1236,
+            "y": 440,
+            "type": 2,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1326,
+            "y": 440,
+            "type": 2,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1596,
+            "y": 440,
+            "type": 2,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1686,
+            "y": 440,
+            "type": 2,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 876,
+            "y": 220,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 966,
+            "y": 220,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1056,
+            "y": 220,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1146,
+            "y": 220,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1236,
+            "y": 220,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1326,
+            "y": 220,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1416,
+            "y": 220,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1506,
+            "y": 220,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1596,
+            "y": 220,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1686,
+            "y": 220,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1776,
+            "y": 220,
+            "type": 0,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 876,
+            "y": 370,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 966,
+            "y": 370,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1056,
+            "y": 370,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1146,
+            "y": 370,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1236,
+            "y": 370,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1326,
+            "y": 370,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1416,
+            "y": 370,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1506,
+            "y": 370,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1596,
+            "y": 370,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1686,
+            "y": 370,
+            "type": 1,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 876,
+            "y": 520,
+            "type": 2,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 966,
+            "y": 520,
+            "type": 2,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1056,
+            "y": 520,
+            "type": 2,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1146,
+            "y": 520,
+            "type": 2,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1326,
+            "y": 520,
+            "type": 2,
+            "animation_counter": 16,
+            "speed": 1
+        },
+        {
+            "x": 1686,
+            "y": 520,
+            "type": 2,
+            "animation_counter": 16,
+            "speed": 1
+        }
+    ],
+    "bunkers": [
+        {
+            "x": 200,
+            "y": 880,
+            "health": 4,
+            "stage": 3
+        },
+        {
+            "x": 600,
+            "y": 880,
+            "health": 4,
+            "stage": 3
+        },
+        {
+            "x": 1000,
+            "y": 880,
+            "health": 4,
+            "stage": 3
+        },
+        {
+            "x": 1400,
+            "y": 880,
+            "health": 4,
+            "stage": 1
+        }
+    ],
+    "bullets": [
+        {
+            "x": 906,
+            "y": 257,
+            "speed": 7,
+            "owner": "enemy"
+        }
+    ],
+    "mystery_ship": {
+        "active": false,
+        "spawn_timer": 470,
+        "direction": 1,
+        "x": -200,
+        "y": 80
+    },
+    "enemy_move_direction": "right",
+    "timestamp": "2026-09-10 18:24:55"
+}

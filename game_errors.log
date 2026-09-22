@@ -1,0 +1,147 @@
+2026-04-22 23:40:08,657 - ERROR
+Unhandled exception:
+----------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\IVAN\Desktop\space\main.py", line 266, in <module>
+    reset_game()
+  File "C:\Users\IVAN\Desktop\space\main.py", line 163, in reset_game
+    player = sprites.Player(WIDTH // 2, HEIGHT - 100)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\IVAN\PycharmProjects\space\.venv\Lib\site-packages\pygame\sprite.py", line 117, in __init__
+    self.add(*groups)
+  File "C:\Users\IVAN\PycharmProjects\space\.venv\Lib\site-packages\pygame\sprite.py", line 135, in add
+    self.add(*group)
+TypeError: pygame.sprite.Sprite.add() argument after * must be an iterable, not int
+2026-04-22 23:40:15,877 - ERROR
+Unhandled exception:
+----------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\IVAN\Desktop\space\main.py", line 266, in <module>
+    reset_game()
+  File "C:\Users\IVAN\Desktop\space\main.py", line 163, in reset_game
+    player = sprites.Player(WIDTH // 2, HEIGHT - 100)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\IVAN\PycharmProjects\space\.venv\Lib\site-packages\pygame\sprite.py", line 117, in __init__
+    self.add(*groups)
+  File "C:\Users\IVAN\PycharmProjects\space\.venv\Lib\site-packages\pygame\sprite.py", line 135, in add
+    self.add(*group)
+TypeError: pygame.sprite.Sprite.add() argument after * must be an iterable, not int
+2026-04-22 23:40:20,339 - ERROR
+Unhandled exception:
+----------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\IVAN\Desktop\space\main.py", line 266, in <module>
+    reset_game()
+  File "C:\Users\IVAN\Desktop\space\main.py", line 163, in reset_game
+    player = sprites.Player(WIDTH // 2, HEIGHT - 100)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\IVAN\PycharmProjects\space\.venv\Lib\site-packages\pygame\sprite.py", line 117, in __init__
+    self.add(*groups)
+  File "C:\Users\IVAN\PycharmProjects\space\.venv\Lib\site-packages\pygame\sprite.py", line 135, in add
+    self.add(*group)
+TypeError: pygame.sprite.Sprite.add() argument after * must be an iterable, not int
+2026-04-22 23:40:29,409 - ERROR
+Unhandled exception:
+----------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\IVAN\Desktop\space\main.py", line 266, in <module>
+    reset_game()
+  File "C:\Users\IVAN\Desktop\space\main.py", line 163, in reset_game
+    player = sprites.Player(WIDTH // 2, HEIGHT - 100)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\IVAN\PycharmProjects\space\.venv\Lib\site-packages\pygame\sprite.py", line 117, in __init__
+    self.add(*groups)
+  File "C:\Users\IVAN\PycharmProjects\space\.venv\Lib\site-packages\pygame\sprite.py", line 135, in add
+    self.add(*group)
+TypeError: pygame.sprite.Sprite.add() argument after * must be an iterable, not int
+2026-04-22 23:43:39,580 - ERROR
+Unhandled exception:
+----------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\IVAN\Desktop\space\main.py", line 266, in <module>
+    reset_game()
+  File "C:\Users\IVAN\Desktop\space\main.py", line 163, in reset_game
+    player = sprites.Player(WIDTH // 2, HEIGHT - 100)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\IVAN\PycharmProjects\space\.venv\Lib\site-packages\pygame\sprite.py", line 117, in __init__
+    self.add(*groups)
+  File "C:\Users\IVAN\PycharmProjects\space\.venv\Lib\site-packages\pygame\sprite.py", line 135, in add
+    self.add(*group)
+TypeError: pygame.sprite.Sprite.add() argument after * must be an iterable, not int
+2026-04-22 23:43:43,890 - ERROR
+Unhandled exception:
+----------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\IVAN\Desktop\space\main.py", line 266, in <module>
+    reset_game()
+  File "C:\Users\IVAN\Desktop\space\main.py", line 163, in reset_game
+    player = sprites.Player(WIDTH // 2, HEIGHT - 100)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\IVAN\PycharmProjects\space\.venv\Lib\site-packages\pygame\sprite.py", line 117, in __init__
+    self.add(*groups)
+  File "C:\Users\IVAN\PycharmProjects\space\.venv\Lib\site-packages\pygame\sprite.py", line 135, in add
+    self.add(*group)
+TypeError: pygame.sprite.Sprite.add() argument after * must be an iterable, not int
+2026-09-10 18:59:08,304 - ERROR
+Unhandled exception:
+----------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\IVAN\Desktop\space\main.py", line 13, in <module>
+    import audio
+  File "C:\Users\IVAN\Desktop\space\audio.py", line 3, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+2026-09-10 19:00:20,516 - ERROR
+Unhandled exception:
+----------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\IVAN\Desktop\space\main.py", line 13, in <module>
+    import audio
+  File "C:\Users\IVAN\Desktop\space\audio.py", line 3, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+2026-09-10 19:00:36,870 - ERROR
+Unhandled exception:
+----------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\IVAN\Desktop\space\main.py", line 13, in <module>
+    import audio
+  File "C:\Users\IVAN\Desktop\space\audio.py", line 3, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+2026-09-10 19:01:11,734 - ERROR
+Unhandled exception:
+----------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\IVAN\Desktop\space\main.py", line 13, in <module>
+    import audio
+  File "C:\Users\IVAN\Desktop\space\audio.py", line 3, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+2026-09-10 19:01:53,601 - ERROR
+Unhandled exception:
+----------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\IVAN\Desktop\space\main.py", line 13, in <module>
+    import audio
+  File "C:\Users\IVAN\Desktop\space\audio.py", line 3, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+2026-09-10 19:03:35,555 - ERROR
+Unhandled exception:
+----------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\IVAN\Desktop\space\main.py", line 13, in <module>
+    import audio
+  File "C:\Users\IVAN\Desktop\space\audio.py", line 3, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+2026-09-10 19:04:36,392 - ERROR
+Unhandled exception:
+----------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\IVAN\Desktop\space\main.py", line 13, in <module>
+    import audio
+  File "C:\Users\IVAN\Desktop\space\audio.py", line 3, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
